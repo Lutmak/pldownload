@@ -1,0 +1,22 @@
+{
+    "connection": {
+        "driver": "{PostgreSQL Unicode(x64)}",
+        "server": "localhost",
+        "server2": "pldownload.c0vx0pxhldek.us-west-2.rds.amazonaws.com",
+        "database": "pldownload",
+        "user": "postgres",
+        "password": "Pa55word",
+        "port": 5432
+    },
+    "socket_host": "52.42.80.211",
+    "socket_port": 999,
+    "directory":"C:/Users/kuno/Documents/pld/",
+    "directory2":"C:/Users/Administrator/Documents/pld/files/",
+    "playlists":[
+        "https://open.spotify.com/user/1285022612/playlist/4QXcOD4HrTwCVmYpIWIxDv",
+        "https://open.spotify.com/user/1285022612/playlist/6n2oFqE2bvZsWzQPR9XgaI",
+        "https://open.spotify.com/user/1285022612/playlist/5gOqVpeIWs6b11xg14dTIB",
+        "https://open.spotify.com/user/1285022612/playlist/7fTLtUnNQhYGuOeokfFTIx",
+        "https://open.spotify.com/user/1285022612/playlist/4bnVYm1wJMdtYW0rxFtOrd"
+    ]
+}
